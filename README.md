@@ -1,1 +1,2 @@
 # Frequentist-Statistics-1A-and-1B
+Part A of this assignment introduced concepts like t- and z-tests, how to calculate standard deviation from a sample, and the Central Limit Theorem and gave an opportunity for hands-on practice working with these concepts using simulated normal data. Part B of this assignment gives additional practice using frequentist inference with real-world data from a hospital dataset.
